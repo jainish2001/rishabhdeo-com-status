@@ -15,6 +15,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Back to Temple Site
+      href: https://www.rishabhdeo.com/
 
