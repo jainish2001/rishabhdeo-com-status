@@ -9,9 +9,7 @@ status-website:
   cname: status.rishabhdeo.com
   logourl: https://raw.githubusercontent.com/jainish2001/rishabhdeo-com-status/refs/heads/master/assets/rishabhdeo_bhagwan.jpg
   favicon: https://raw.githubusercontent.com/jainish2001/rishabhdeo-com-status/refs/heads/master/assets/favicon.ico
-  
-#  logoUrl: 
-  name: Rishabhdeo Temple
+  name: Rishabhdeo Temple - Site Status
   introTitle: "**Live Infrastructure Status**"
   introMessage: Real-time monitoring for the official Shri Rishabhdeo Temple digital services.
   navbar:
