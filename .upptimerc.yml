@@ -7,6 +7,8 @@ sites:
 
 status-website:
   cname: status.rishabhdeo.com
+  logourl: https://raw.githubusercontent.com/jainish2001/rishabhdeo-com-status/refs/heads/master/assets/rishabhdeo_bhagwan.jpg
+  favicon: https://raw.githubusercontent.com/jainish2001/rishabhdeo-com-status/refs/heads/master/assets/favicon.ico
   
 #  logoUrl: 
   name: Rishabhdeo Temple
@@ -18,3 +20,14 @@ status-website:
     - title: Back to Temple Site
       href: https://www.rishabhdeo.com/
 
+
+i18n:
+  activeIncidents: "सक्रिय घटनाएँ" (Active Incidents)
+  allSystemsOperational: "सभी सिस्टम सुचारू रूप से काम कर रहे हैं" (All Systems Operational)
+  incidentReport: "घटना रिपोर्ट" (Incident Report)
+  activeIncidentSummary: "वर्तमान में $ACTIVE_INCIDENTS सक्रिय घटनाएँ हैं।"
+  down: "बंद" (Down)
+  up: "चालू" (Up)
+
+
+  
