@@ -3,7 +3,7 @@ repo: rishabhdeo-com-status
 
 sites:
   - name: Rishabhdeo Temple Website
-    url: https://www.rishabhdeo.com
+    url: https://www.rishabhdeo.com/
 
 status-website:
   cname: status.rishabhdeo.com
