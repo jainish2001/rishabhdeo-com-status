@@ -1,7 +1,7 @@
 [
   {
     "name": "Rishabhdeo Temple Website",
-    "url": "https://www.rishabhdeo.com",
+    "url": "https://www.rishabhdeo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.rishabhdeo.com.ico",
     "slug": "rishabhdeo-temple-website",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1194,
-    "timeDay": 1194,
-    "timeWeek": 1194,
-    "timeMonth": 1194,
-    "timeYear": 1194,
+    "time": 1168,
+    "timeDay": 1168,
+    "timeWeek": 1168,
+    "timeMonth": 1168,
+    "timeYear": 1168,
     "dailyMinutesDown": {}
   }
 ]
