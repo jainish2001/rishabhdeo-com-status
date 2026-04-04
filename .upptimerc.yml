@@ -17,6 +17,8 @@ status-website:
       href: /
     - title: Back to Temple Site
       href: https://www.rishabhdeo.com/
+  customCss: |
+    footer { display: none !important; }
 
 
 i18n:
