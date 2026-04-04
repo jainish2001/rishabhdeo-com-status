@@ -22,12 +22,11 @@ status-website:
 
 
 i18n:
-  activeIncidents: "सक्रिय घटनाएँ" (Active Incidents)
-  allSystemsOperational: "सभी सिस्टम सुचारू रूप से काम कर रहे हैं" (All Systems Operational)
-  incidentReport: "घटना रिपोर्ट" (Incident Report)
+  activeIncidents: "सक्रिय घटनाएँ"
+  allSystemsOperational: "सभी सिस्टम सुचारू रूप से काम कर रहे हैं"
+  incidentReport: "घटना रिपोर्ट"
   activeIncidentSummary: "वर्तमान में $ACTIVE_INCIDENTS सक्रिय घटनाएँ हैं।"
-  down: "बंद" (Down)
-  up: "चालू" (Up)
-
+  down: "बंद"
+  up: "चालू"
 
   
