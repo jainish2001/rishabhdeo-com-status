@@ -17,7 +17,13 @@ status-website:
       href: /
     - title: Back to Temple Site
       href: https://www.rishabhdeo.com/
-
+  removeFooter: true 
+  customFooter: |
+      <div style="text-align: center; font-size: 0.9rem; padding: 10px 0;">
+        <strong>SITE DEVELOPED AND MAINTAINED BY <a href="https://maps.app.goo.gl/sHscF6XJnNCJXUSe7" target="_blank" style="color: #991F61; text-decoration: none;">PRIYA ELECTRONICS, RISHABHDEO</a></strong>
+        <br/>
+        ✉️ <a href="mailto:contact@jainishjain.com" style="color: inherit; text-decoration: none;">contact@jainishjain.com</a>
+      </div>
 
 i18n:
   activeIncidents: "Active Incidents | सक्रिय घटनाएँ"
